@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_public_black_24dp"
+            android:title="Notícias" />
+        <item
+            android:id="@+id/nav_alerts"
+            android:icon="@drawable/ic_notifications_active_black_24dp"
+            android:title="Lembretes" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Agendar Consultas" />
+        <item
+            android:id="@+id/nav_treatment"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Acompanhe seu Tratamento" />
+        <item
+            android:id="@+id/nav_jobs"
+            android:icon="@drawable/ic_local_hospital_black_24dp"
+            android:title="Serviços e Especialidades" />
+
+    </group>
+
+</menu>

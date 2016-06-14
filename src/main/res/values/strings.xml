@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Saude Oral</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_login">Saúde Oral</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_name">Primeiro Nome</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Cadastrar e Fazer Login</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Digite um e-mail válido</string>
+    <string name="error_invalid_password">Essa senha é muito curta</string>
+    <string name="error_incorrect_password">A senha está incorreta</string>
+    <string name="error_field_required">Campo Obrigatório</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_lembretes">Lembretes</string>
+    <string name="title_activity_agendar">Agendar</string>
+    <string name="title_activity_acompanhe">Acompanhe</string>
+    <string name="title_activity_servicos">Servicos</string>
+    <string name="title_activity_news">Notícias</string>
+    <string name="noticia1"><u>Odonto de Luxo</u></string>
+    <string name="noticia2"><u>Marketing e ética na Saúde</u></string>
+    <string name="veja_mais"><a href="http://www.clinicasaudeoral.com.br/artigos.html">Veja Mais</a></string>
+    <string name="servicos1"><u>Implantodontia</u></string>
+    <string name="servicos2"><u>Ortodontia</u></string>
+    <string name="servicos3"><u>Estética</u></string>
+    <string name="servicos4"><u>Clareamento</u></string>
+
+</resources>
